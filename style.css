@@ -1,0 +1,32 @@
+table, tr {
+    background: linear-gradient(180deg, rgb(54, 53, 53), rgb(37, 37, 36));
+    border-collapse: collapse;
+    border: 1px solid gray;
+    color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.col {
+    font-size: x-large;
+    padding: .5rem 1rem .5rem 1rem;
+    background-color:rgb(22, 21, 21);
+    text-align: left;
+}
+.title { 
+    font-size: xx-large;
+}
+.name, .colr{
+    font-size: medium;
+    color: rgba(248, 248, 248, 0.521);
+}
+.border {
+    border-right: 1px solid rgba(0, 0, 0, 0.39);
+}
+.pad {
+    padding: 1.75rem 1rem 1.75rem 1rem;
+}
+.color {
+    border-right: 1px solid rgba(0, 0, 0, 0.39);
+}
+th {
+    text-align: left;
+}
